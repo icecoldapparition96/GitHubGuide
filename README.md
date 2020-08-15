@@ -1,11 +1,11 @@
 # GitHubGuide
 My very own reference
 
-Instead of removing and re-adding, you can do this:
+Linking the GitHub account with Local Repository 
 
-git remote set-url origin git://new.url.here
-See this question: How to change the URI (URL) for a remote Git repository?
 
-To remove remote use this:
 
-git remote remove origin
+Pushing project To GitHub:
+1. git add filename
+// this will add the files to the staging are
+2. git commit -m "Commit Message"
